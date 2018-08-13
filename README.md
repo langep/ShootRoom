@@ -9,4 +9,4 @@ Right Mouse - Shoot to kill monsters
 E - Throw down space grenade to generate a lot of space  
 
 ## Note on WebGL
-Unfortunately, we got WebGL only to work in Firefox. Chrome had broken keyboard input.
+Unfortunately, we got WebGL only to work in Firefox. Chrome had broken keyboard input. Get the build for your platform from `Builds/`.
