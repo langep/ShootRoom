@@ -8,5 +8,5 @@ Left Mouse - Shoot for more room
 Right Mouse - Shoot to kill enemy  
 E - Throw down space grenade to generate a lot of space  
 
-## NOTE
-Unfortunately, WebGL might not work on Chrome. It seems to work in Firefox.
+## Note on WebGL
+Unfortunately, we got WebGL only to work in Firefox. Chrome had broken keyboard input.
