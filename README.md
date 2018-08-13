@@ -9,4 +9,4 @@ Right Mouse - Shoot to kill enemy
 E - Throw down space grenade to generate a lot of space  
 
 ## NOTE
-Unfortunately, building to WebGL results in a broken build with sticky or non-responsive input. Please download the build for your platform from `Builds/`.
+Unfortunately, WebGL might not work on Chrome. It seems to work in Firefox.
